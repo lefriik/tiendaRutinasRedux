@@ -1,59 +1,9 @@
 {
   "productos": [
     {
-      "id": 1,
-      "nombre": "Jugo de Zanahoria",
-      "precio": "31111"
-    },
-    {
-      "id": 2,
-      "nombre": "Jugo de Naranja",
-      "precio": "1"
-    },
-    {
-      "nombre": "Jugo de Naranja",
-      "precio": "300",
-      "id": 3
-    },
-    {
-      "nombre": "Rib Eye 800g",
-      "precio": "200",
-      "id": 4
-    },
-    {
-      "nombre": "Jugo de Fresa",
-      "precio": "200",
-      "id": 5
-    },
-    {
       "nombre": "tequila",
-      "precio": 100000,
+      "precio": "20000",
       "id": 6
-    },
-    {
-      "nombre": "coca cola",
-      "precio": 2000,
-      "id": 7
-    },
-    {
-      "nombre": "fanta",
-      "precio": 2000,
-      "id": 8
-    },
-    {
-      "nombre": "chocolito",
-      "precio": 5000,
-      "id": 9
-    },
-    {
-      "nombre": "traktor s8",
-      "precio": 5000,
-      "id": 10
-    },
-    {
-      "nombre": "fajita",
-      "precio": 15000,
-      "id": 11
     }
   ]
 }
